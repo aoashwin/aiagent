@@ -1,4 +1,6 @@
-# Developing AI Agent with PEAS Description
+## Ex no: 1
+## Date: 4/4/2022
+# <p align="center">Developing AI Agent with PEAS Description
 
 ## AIM
 
@@ -26,6 +28,10 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+```
+Developed by: ASHWIN AO
+Registration no: 212220230005
+```
 ```
 
 import random
